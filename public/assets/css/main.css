@@ -1,0 +1,16 @@
+.oq {
+    background: red;
+    color: #fff;
+}
+
+.oq .a {
+    color: #fff;
+}
+
+.newspost {
+    color: #000;
+}
+
+.newspost:hover {
+    color: #f00;
+}
